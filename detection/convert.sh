@@ -1,0 +1,1 @@
+python convert-pretrain-to-detectron2.py checkpoint_0199.pth.tar output199.pkl
